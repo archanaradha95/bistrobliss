@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../assets/images/logo.svg'
+import image from '../assets/images/Logo.svg'
 import { useNavigate } from 'react-router-dom'
 import { FiPhone,FiMail } from "react-icons/fi";
 import { FaTwitter, FaFacebookF, FaInstagram, FaGithub } from "react-icons/fa";
