@@ -6,7 +6,7 @@ import image1 from '../assets/images/delivery1.svg'
 import image2 from '../assets/images/delivery2.svg'
 import image3 from '../assets/images/delivery3.svg'
 import time from '../assets/images/time-Icon.svg'
-import offer from '../assets/images/offer-Icon.svg'
+import offer from '../assets/images/offer-icon.svg'
 import onlineshoping from '../assets/images/onlineshoping-Icon.svg'
 import { FiPhone,FiMail} from "react-icons/fi";
 import { SlLocationPin } from "react-icons/sl";
